@@ -1,4 +1,5 @@
-# Export-JqueryGrid-to-Excel-CSV
+# Jqgrid Export to Excel CSV javaScript
+
 Export Jqgrid to Excel CSV file using Javascript on Client side.
 
 Export your jqgrid export to CSV file using javascript function.
